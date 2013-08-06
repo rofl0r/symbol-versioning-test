@@ -1,0 +1,9 @@
+OLD {
+	global: func;
+	local: *;
+};
+
+NEW {
+	global: func;
+	local: *;
+};
