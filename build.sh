@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# see http://www.trevorpounds.com/blog/?p=33
-# and http://www.trevorpounds.com/blog/?p=103
+# see http://web.archive.org/web/20141011042821/http://www.trevorpounds.com/blog/?p=33
+# and http://web.archive.org/web/20141011042821/http://www.trevorpounds.com/blog/?p=103
 
 
 [ -z "$CC" ] && CC=gcc
